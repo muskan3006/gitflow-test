@@ -1,2 +1,2 @@
 First Document
-Feature 1
+Change in Feature 2
